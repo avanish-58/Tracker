@@ -19,9 +19,6 @@ package com.iitism.devism.shuttletracker;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.maps.android.clustering.ClusterItem;
 
-/**
- * Created by shubham on 26/11/17.
- */
 public class MapItem implements ClusterItem {
 
     public final String name;

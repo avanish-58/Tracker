@@ -34,9 +34,7 @@ import java.util.Map;
 import java.util.Random;
 
 
-/**
- * Created by shubham on 26/11/17.
- */
+
 public class MapsActivityWithMarkers extends MapsActivity implements ClusterManager.OnClusterClickListener<MapItem>, ClusterManager.OnClusterInfoWindowClickListener<MapItem>, ClusterManager.OnClusterItemClickListener<MapItem>, ClusterManager.OnClusterItemInfoWindowClickListener<MapItem> {
     private ClusterManager<MapItem> mClusterManager;
 

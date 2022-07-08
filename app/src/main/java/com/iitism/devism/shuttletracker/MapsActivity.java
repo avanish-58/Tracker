@@ -46,9 +46,7 @@ import org.json.JSONObject;
 import static com.iitism.devism.shuttletracker.R.id.map;
 
 
-/**
- * Created by shubham on 26/11/17.
- */
+
 public abstract class MapsActivity extends AppCompatActivity implements com.google.android.gms.maps.OnMapReadyCallback {
 
     private static final LatLng CSE =new LatLng(23.812448243039064,86.441491844844) ;

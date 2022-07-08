@@ -23,9 +23,7 @@ import android.graphics.drawable.Drawable;
 
 import java.util.List;
 
-/**
- * Created by shubham on 27/11/17.
- */
+
 public class MultiDrawable extends Drawable {
 
     private final List<Drawable> mDrawables;
